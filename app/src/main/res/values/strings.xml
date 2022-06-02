@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF5-10119197-MochamadNurkhayalKadafi</string>
+    <string name="title_success">Berhasil Mendapatkan Akses</string>
+    <string name="desc_success">Silahkan tap tombol di bawah untuk memulai mengisi form Lapor Kesehatan Harian.</string>
+</resources>
